@@ -895,3 +895,1182 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.26-22.54.53:818][435]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/Collections/' because it could not be accessed. Aborting watch request...
 [2022.04.26-22.55.09:192][171]LogSlate: Window 'Plugins' being destroyed
 [2022.04.26-22.55.09:197][171]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.04.26-22.58.20:574][ 19]LogSlate: Took 0.024924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.26-22.59.47:187][518]LogSlate: Took 0.000577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.26-22.59.47:225][518]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.04.26-22.59.48:231][518]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0022 seconds. Added 126 classes and 0 folders.
+[2022.04.26-22.59.51:733][518]LogSlate: Took 0.000568 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.26-22.59.56:694][675]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.04.26-23.04.54:987][451]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.26-23.05.59:135][225]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2022.04.26-23.06.14:249][ 99]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.04.26-23.06.14:283][ 99]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.26-23.06.17:857][301]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.04.26-23.06.18:855][301]LogBlueprint: Warning: [AssetLog] C:\Users\oxthe\Desktop\GPR-300-51\GPR300Quiz4\Quiz4\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2022.04.26-23.06.19:667][301]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2022.04.26-23.06.19:667][301]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2022.04.26-23.06.19:667][301]LogTexture: Display: Building textures: UE4Man_Logo_N (OODLE_BC5, 512X512)
+[2022.04.26-23.06.19:667][301]LogTexture: Display: Building textures: T_ML_Aluminum01_N (OODLE_BC5, 512X512)
+[2022.04.26-23.06.19:667][301]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (OODLE_DXT1, 512X512)
+[2022.04.26-23.06.19:667][301]LogTexture: Display: Building textures: T_ML_Aluminum01 (OODLE_DXT1, 512X512)
+[2022.04.26-23.06.19:667][301]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (OODLE_AutoDXT, 1024X1024)
+[2022.04.26-23.06.19:667][301]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2022.04.26-23.06.19:898][301]LogTexture: Display: Building textures: UE4_Mannequin__normals (OODLE_BC5, 2048X2048)
+[2022.04.26-23.06.19:898][301]LogSkeletalMesh: Built Skeletal Mesh [0.23s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.26-23.06.19:958][301]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (OODLE_DXT1, 512X512)
+[2022.04.26-23.06.20:609][301]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.26-23.06.20:609][301]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.26-23.06.20:609][301]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.26-23.06.20:609][301]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (OODLE_BC5, 512X512)
+[2022.04.26-23.06.20:609][301]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 98F62F570888EA2AAD649D3A52E86914B759EB4E), compiling. 
+[2022.04.26-23.06.21:483][301]LogShaderCompilers: Display: Submitted 88 shader compile jobs with 'Low' priority
+[2022.04.26-23.06.21:952][301]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 88
+[2022.04.26-23.06.21:952][301]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 78
+[2022.04.26-23.06.21:952][301]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2022.04.26-23.06.21:952][301]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2022.04.26-23.06.21:952][301]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.21:952][301]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2022.04.26-23.06.21:952][301]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2022.04.26-23.06.21:952][301]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand
+[2022.04.26-23.06.21:952][301]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2022.04.26-23.06.21:952][301]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2022.04.26-23.06.21:952][301]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: B2B116A4FA40C1B21A8FB72F194106206D1E385C), compiling. 
+[2022.04.26-23.06.22:057][301]LogShaderCompilers: Display: Submitted 88 shader compile jobs with 'Low' priority
+[2022.04.26-23.06.22:818][301]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2022.04.26-23.06.23:314][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.04.26-23.06.23:406][302]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2022.04.26-23.06.23:407][302]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2022.04.26-23.06.23:457][305]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2022.04.26-23.06.23:515][308]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2022.04.26-23.06.23:568][311]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2022.04.26-23.06.24:910][375]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2022.04.26-23.06.24:960][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.04.26-23.06.32:038][781]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 136
+[2022.04.26-23.06.32:038][781]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.32:038][781]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.26-23.06.32:038][781]LogShaderCompilers: Display: Total job queries 176, among them cache hits 0 (0.00%)
+[2022.04.26-23.06.32:038][781]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 10 distinct outputs (100.00%)
+[2022.04.26-23.06.32:038][781]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.01%
+[2022.04.26-23.06.32:038][781]LogShaderCompilers: Display: ================================================
+[2022.04.26-23.06.32:553][803]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 126
+[2022.04.26-23.06.32:553][803]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.33:193][841]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 116
+[2022.04.26-23.06.33:193][841]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.35:964][  6]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 106
+[2022.04.26-23.06.35:964][  6]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.39:616][225]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 96
+[2022.04.26-23.06.39:616][225]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.40:916][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 86
+[2022.04.26-23.06.40:916][303]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.42:493][397]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 76
+[2022.04.26-23.06.42:493][397]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.42:670][408]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2022.04.26-23.06.42:670][408]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.47:063][669]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2022.04.26-23.06.47:063][669]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.48:615][762]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2022.04.26-23.06.48:615][762]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.49:191][796]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2022.04.26-23.06.49:191][796]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.50:661][884]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2022.04.26-23.06.50:661][884]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.54:003][ 82]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2022.04.26-23.06.54:003][ 82]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.54:643][121]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2022.04.26-23.06.54:643][121]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.55:821][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.04.26-23.06.55:821][191]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.57:267][277]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2022.04.26-23.06.57:267][277]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.57:267][277]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.04.26-23.06.57:267][277]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.58:085][326]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.04.26-23.06.58:085][326]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.58:191][333]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.04.26-23.06.58:191][333]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.06.58:736][365]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.26-23.06.58:736][365]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.26-23.07.08:721][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.04.26-23.07.08:722][939]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.035
+[2022.04.26-23.07.08:807][939]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([2] browsable assets)...
+[2022.04.26-23.07.08:808][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2022.04.26-23.07.08:969][939]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/ThirdPersonGameMode_Auto1361A52B74583CFBDB20023ACD1A2970F.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto1.uasset'
+[2022.04.26-23.07.09:103][939]LogFileHelpers: Auto-saving content packages took 0.362
+[2022.04.26-23.07.34:534][453]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/ThirdPersonGameMode4DD7FF9D402BD99E319CC98D48DCAEC4.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2022.04.26-23.07.34:584][453]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2022.04.26-23.07.34:584][453]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2022.04.26-23.08.26:047][414]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2022.04.26-23.08.32:036][761]LogContentBrowser: Deferred new asset file creation: Fire_Shotgun_Ironsights_Montage
+[2022.04.26-23.08.32:143][761]LogContentBrowser: Creating deferred item: Fire_Shotgun_Ironsights_Montage
+[2022.04.26-23.09.10:178][ 39]LogContentBrowser: Attempting asset rename: Fire_Shotgun_Ironsights_Montage -> MyAnimationMontage
+[2022.04.26-23.09.10:321][ 39]LogContentBrowser: End creating deferred item Fire_Shotgun_Ironsights_Montage
+[2022.04.26-23.09.24:557][767]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 98DB73E4F086C9552AA333BE7CAC0311CD7BE7F0), compiling. 
+[2022.04.26-23.09.24:574][768]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.26-23.09.24:580][768]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.04.26-23.09.24:580][768]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.26-23.09.24:580][768]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.26-23.09.24:618][768]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.24:622][768]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2022.04.26-23.09.24:622][768]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2022.04.26-23.09.24:622][768]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.24:648][768]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 613EF4CEA7577742FA20C6C2D0E6389C80ED85D4), compiling. 
+[2022.04.26-23.09.24:668][769]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.26-23.09.24:722][769]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.24:919][769]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 072AB03D01150C46D1D1CB17A7FE554C7E97FF53), compiling. 
+[2022.04.26-23.09.24:930][769]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.26-23.09.24:977][769]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.26:418][833]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2022.04.26-23.09.26:418][833]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.26-23.09.27:453][876]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.04.26-23.09.27:453][876]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.26-23.09.29:212][958]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.26-23.09.29:212][958]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.26-23.09.29:355][965]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 103
+[2022.04.26-23.09.29:355][965]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.30:339][ 15]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 93
+[2022.04.26-23.09.30:339][ 15]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.34:600][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 83
+[2022.04.26-23.09.34:600][222]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.34:609][222]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.26-23.09.34:609][222]LogShaderCompilers: Display: Total job queries 305, among them cache hits 0 (0.00%)
+[2022.04.26-23.09.34:609][222]LogShaderCompilers: Display: Tracking 192 distinct input hashes that result in 154 distinct outputs (80.21%)
+[2022.04.26-23.09.34:609][222]LogShaderCompilers: Display: RAM used: 0.62 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.15%
+[2022.04.26-23.09.34:609][222]LogShaderCompilers: Display: ================================================
+[2022.04.26-23.09.36:675][322]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 73
+[2022.04.26-23.09.36:676][322]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.39:301][447]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 63
+[2022.04.26-23.09.39:301][447]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.40:470][503]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 53
+[2022.04.26-23.09.40:471][503]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.43:253][632]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2022.04.26-23.09.43:254][632]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.45:480][739]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2022.04.26-23.09.45:480][739]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.49:355][923]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2022.04.26-23.09.49:355][923]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.51:508][ 24]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2022.04.26-23.09.51:508][ 24]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.51:587][ 28]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2022.04.26-23.09.51:587][ 28]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.53:101][ 98]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.04.26-23.09.53:101][ 98]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.54:036][144]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.04.26-23.09.54:036][144]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.55:229][200]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.04.26-23.09.55:229][200]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.55:859][228]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.04.26-23.09.55:859][228]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.09.56:132][241]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.04.26-23.09.56:132][241]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.10.07:735][924]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage
+[2022.04.26-23.10.07:922][924]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2022.04.26-23.10.07:991][924]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.04.26-23.10.08:358][924]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.04.26-23.10.08:854][924]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-23.10.08:923][924]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0012 seconds. Added 1 classes and 0 folders.
+[2022.04.26-23.10.11:930][925]LogRenderer: Reallocating scene render targets to support 1088x360 Format 10 NumSamples 1 (Frame:1).
+[2022.04.26-23.10.19:916][388]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.10.19:917][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-23.10.20:762][424]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.04.26-23.10.20:762][424]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.10.20:762][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-23.13.35:220][ 74]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.13.35:220][ 74]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.13.35:220][ 74]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.13.35:223][ 74]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.13.35:223][ 74]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.13.35:223][ 74]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.13.35:224][ 74]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.13.35:224][ 74]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.13.35:224][ 74]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.13.35:276][ 76]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.13.35:276][ 76]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.13.35:276][ 76]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.08:822][ 85]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.08:822][ 85]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.08:822][ 85]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.08:823][ 85]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.08:823][ 85]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.08:823][ 85]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.08:824][ 85]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.08:824][ 85]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.08:824][ 85]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.08:866][ 86]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.08:866][ 86]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.08:866][ 86]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:498][302]Cmd: TRANSACTION UNDO
+[2022.04.26-23.14.12:505][302]LogEditorTransaction: Undo Add Slot
+[2022.04.26-23.14.12:699][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:699][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:699][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:699][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:699][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:699][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:699][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:699][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:699][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-23.14.12:738][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:773][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:862][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:862][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:862][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:862][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:863][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:863][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:863][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:863][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:863][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:863][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:864][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:864][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:864][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:864][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:864][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:864][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:864][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:864][302]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:971][304]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:971][304]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.12:971][304]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.30:999][281]LogSlate: Window 'Create New Animation Object' being destroyed
+[2022.04.26-23.14.31:899][333]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.33:150][408]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:068][523]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:068][523]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:068][523]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:084][524]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:085][524]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:085][524]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:317][538]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:317][538]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:317][538]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:338][539]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:338][539]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:338][539]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:383][540]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:383][540]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:383][540]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:399][541]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:399][541]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:399][541]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:416][542]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:416][542]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:416][542]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:432][543]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:432][543]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:432][543]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:449][544]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:449][544]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:449][544]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:466][545]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:466][545]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:466][545]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:482][546]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:482][546]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:482][546]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:499][547]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:499][547]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:499][547]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:516][548]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:516][548]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:516][548]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:533][549]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:533][549]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:533][549]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:549][550]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:549][550]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:549][550]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:566][551]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:566][551]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:566][551]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:582][552]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:583][552]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:583][552]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:599][553]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:599][553]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:599][553]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:615][554]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:615][554]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:615][554]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:632][555]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:632][555]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:632][555]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:649][556]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:649][556]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:649][556]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:666][557]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:666][557]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:666][557]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:799][565]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:799][565]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:799][565]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:816][566]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:816][566]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:816][566]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:832][567]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:832][567]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:832][567]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:849][568]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:849][568]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:849][568]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:865][569]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:866][569]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:866][569]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:882][570]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:882][570]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:882][570]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:901][571]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:901][571]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:901][571]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:915][572]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:916][572]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:916][572]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:932][573]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:932][573]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.35:932][573]LogAnimMontage: Warning: Montage 'AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage' not properly setup. Slot named 'DefaultSlot' is already used in this Montage. All slots must be unique
+[2022.04.26-23.14.41:194][873]Cmd: TRANSACTION UNDO
+[2022.04.26-23.14.41:195][873]LogEditorTransaction: Undo Add Slot
+[2022.04.26-23.14.41:282][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-23.15.24:712][451]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/UE4_Mannequin_SkeletonFEB480404C4A4E2155E18E9BA2364400.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2022.04.26-23.15.24:736][451]AssetCheck: New page: Asset Save: UE4_Mannequin_Skeleton
+[2022.04.26-23.15.24:736][451]LogContentValidation: Display: Validating Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.04.26-23.16.40:994][ 15]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/MyAnimationMontage673CDA314DA4AFC3CEDAA0951A521855.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Content/AnimStarterPack/MyAnimationMontage.uasset'
+[2022.04.26-23.16.41:012][ 15]AssetCheck: New page: Asset Save: MyAnimationMontage
+[2022.04.26-23.16.41:012][ 15]LogContentValidation: Display: Validating AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage
+[2022.04.26-23.17.47:184][775]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FE35BBD1674F6E18507A4CB91DEFBCD302F65B67), compiling. 
+[2022.04.26-23.17.47:206][777]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.26-23.17.47:207][777]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.04.26-23.17.47:207][777]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.26-23.17.47:207][777]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.26-23.17.47:245][777]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2022.04.26-23.17.47:245][777]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2022.04.26-23.17.47:245][777]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2022.04.26-23.17.47:245][777]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.17.48:711][841]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2022.04.26-23.17.48:711][841]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.17.48:724][841]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.26-23.17.48:724][841]LogShaderCompilers: Display: Total job queries 348, among them cache hits 0 (0.00%)
+[2022.04.26-23.17.48:724][841]LogShaderCompilers: Display: Tracking 306 distinct input hashes that result in 209 distinct outputs (68.30%)
+[2022.04.26-23.17.48:724][841]LogShaderCompilers: Display: RAM used: 0.83 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.20%
+[2022.04.26-23.17.48:724][841]LogShaderCompilers: Display: ================================================
+[2022.04.26-23.17.49:577][871]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2022.04.26-23.17.49:577][871]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.17.53:156][992]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2022.04.26-23.17.53:156][992]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.17.54:180][ 27]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.04.26-23.17.54:180][ 27]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.17.54:274][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.04.26-23.17.54:274][ 30]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.17.55:107][ 58]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.04.26-23.17.55:107][ 58]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.17.55:790][ 81]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.04.26-23.17.55:790][ 81]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.17.55:853][ 83]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.04.26-23.17.55:853][ 83]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.26-23.18.07:423][503]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+[2022.04.26-23.18.08:404][503]LogSlate: Took 0.070716 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.26-23.20.22:313][816]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2022.04.26-23.20.22:316][816]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.109
+[2022.04.26-23.20.22:316][816]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AnimStarterPack/Ue4ASP_Character] ([2] browsable assets)...
+[2022.04.26-23.20.22:342][816]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C]
+[2022.04.26-23.20.22:357][816]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character]
+[2022.04.26-23.20.22:357][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Ue4ASP_Character]
+[2022.04.26-23.20.22:852][816]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/Ue4ASP_Character_Auto2CD74C8304653E689C56F64A25A8990A7.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/Autosaves/Game/AnimStarterPack/Ue4ASP_Character_Auto2.uasset'
+[2022.04.26-23.20.22:854][816]LogFileHelpers: Auto-saving content packages took 0.538
+[2022.04.26-23.23.29:295][648]BlueprintLog: New page: Compile Ue4ASP_Character
+[2022.04.26-23.23.29:430][648]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2022.04.26-23.23.34:048][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Ue4ASP_Character" FILE="../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Content/AnimStarterPack/Ue4ASP_Character.uasset" SILENT=true
+[2022.04.26-23.23.34:089][919]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/Ue4ASP_CharacterC991F2C4404E8850AD5D2387B84D493D.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Content/AnimStarterPack/Ue4ASP_Character.uasset'
+[2022.04.26-23.23.34:119][919]AssetCheck: New page: Asset Save: Ue4ASP_Character
+[2022.04.26-23.23.34:119][919]LogContentValidation: Display: Validating Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+[2022.04.26-23.24.28:523][174]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2022.04.26-23.24.28:607][174]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-23.30.33:077][794]BlueprintLog: New page: Compile UE4ASP_HeroTPP_AnimBlueprint
+[2022.04.26-23.30.33:368][794]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2022.04.26-23.30.35:359][899]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/UE4ASP_HeroTPP_AnimBlueprintD52DA79C456EB79E7E86F19303940B75.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2022.04.26-23.30.35:378][899]AssetCheck: New page: Asset Save: UE4ASP_HeroTPP_AnimBlueprint
+[2022.04.26-23.30.35:378][899]LogContentValidation: Display: Validating AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2022.04.26-23.36.28:721][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.04.26-23.36.28:723][  0]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.037
+[2022.04.26-23.36.28:724][  0]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint] ([2] browsable assets)...
+[2022.04.26-23.36.28:738][  0]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint]
+[2022.04.26-23.36.28:738][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint]
+[2022.04.26-23.36.28:805][  0]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/UE4ASP_HeroTPP_AnimBlueprint_Aut05CD415644348CFBCCBC4FA16929472E.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/Autosaves/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint_Auto3.uasset'
+[2022.04.26-23.36.28:806][  0]LogFileHelpers: Auto-saving content packages took 0.082
+[2022.04.26-23.36.35:136][379]BlueprintLog: New page: Compile UE4ASP_HeroTPP_AnimBlueprint
+[2022.04.26-23.36.35:206][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.04.26-23.41.53:874][321]BlueprintLog: New page: Compile UE4ASP_HeroTPP_AnimBlueprint
+[2022.04.26-23.41.53:949][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.04.26-23.41.56:040][435]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/UE4ASP_HeroTPP_AnimBlueprintCE326BE9415DD5307FEF45BA65AD22F8.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2022.04.26-23.41.56:054][435]AssetCheck: New page: Asset Save: UE4ASP_HeroTPP_AnimBlueprint
+[2022.04.26-23.41.56:054][435]LogContentValidation: Display: Validating AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2022.04.26-23.42.13:749][457]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2022.04.26-23.42.15:388][522]Cmd: DELETE
+[2022.04.26-23.42.15:399][522]Cmd: ACTOR DELETE
+[2022.04.26-23.42.15:805][522]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2022.04.26-23.42.15:907][522]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2022.04.26-23.42.15:909][522]LogEditorActor: Deleted 1 Actors (0.156 secs)
+[2022.04.26-23.42.29:734][347]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.26-23.42.29:859][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.26-23.42.29:936][347]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 26, 2022, 3:42:29 PM)
+[2022.04.26-23.42.29:966][347]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.26-23.42.30:029][347]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.26-23.42.30:086][347]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.26-23.42.30:345][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.258141s)
+[2022.04.26-23.42.30:376][347]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.26-23.42.30:400][347]LogPlayLevel: PIE: World Init took: (0.045074s)
+[2022.04.26-23.42.30:400][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.314382s)
+[2022.04.26-23.42.30:429][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.04.26-23.42.30:485][347]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.26-23.42.30:485][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.26-23.42.30:485][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.26-23.42.30:485][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.26-23.42.30:485][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.26-23.42.30:485][347]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.26-23.42.30:485][347]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.26-23.42.30:485][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.26-23.42.30:486][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.26-23.42.30:487][347]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.26-23.42.30:487][347]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.26-23.42.30:487][347]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.26-23.42.30:487][347]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.26-23.42.30:499][347]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.26-23.42.30:499][347]LogAudioMixer: Display: 1: FrontRight
+[2022.04.26-23.42.30:543][347]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.04.26-23.42.30:544][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.26-23.42.30:544][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.26-23.42.30:544][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.26-23.42.30:546][347]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.26-23.42.30:546][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.26-23.42.30:546][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.26-23.42.30:548][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.26-23.42.30:548][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.26-23.42.30:548][347]LogInit: FAudioDevice initialized.
+[2022.04.26-23.42.30:548][347]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2022.04.26-23.42.30:687][347]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.26-23.42.30:693][347]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.04.26-19.42.30
+[2022.04.26-23.42.30:722][347]LogWorld: Bringing up level for play took: 0.031740
+[2022.04.26-23.42.30:759][347]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.04.26-23.42.31:116][347]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0019 seconds. Added 20 classes and 0 folders.
+[2022.04.26-23.42.31:318][347]PIE: Server logged in
+[2022.04.26-23.42.31:372][347]PIE: Play in editor total start time 1.591 seconds.
+[2022.04.26-23.42.59:284][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-23.42.59:284][968]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.26-23.42.59:288][968]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.42.59:289][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-23.42.59:326][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.26-23.42.59:363][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-23.42.59:423][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-23.42.59:423][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-23.42.59:424][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-23.42.59:593][968]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2022.04.26-23.42.59:613][969]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.04.26-23.43.15:163][898]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.26-23.43.15:170][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.26-23.43.15:170][898]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 26, 2022, 3:43:15 PM)
+[2022.04.26-23.43.15:170][898]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.26-23.43.15:184][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014324s)
+[2022.04.26-23.43.15:185][898]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.26-23.43.15:201][898]LogPlayLevel: PIE: World Init took: (0.016941s)
+[2022.04.26-23.43.15:201][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.031443s)
+[2022.04.26-23.43.15:240][898]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2022.04.26-23.43.15:242][898]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.26-23.43.15:242][898]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.26-23.43.15:242][898]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.26-23.43.15:242][898]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.26-23.43.15:242][898]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.26-23.43.15:242][898]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.26-23.43.15:242][898]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.26-23.43.15:242][898]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.26-23.43.15:242][898]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.26-23.43.15:243][898]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.26-23.43.15:243][898]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.26-23.43.15:243][898]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.26-23.43.15:243][898]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.26-23.43.15:244][898]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.26-23.43.15:244][898]LogAudioMixer: Display: 1: FrontRight
+[2022.04.26-23.43.15:260][898]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.04.26-23.43.15:260][898]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.26-23.43.15:260][898]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.26-23.43.15:260][898]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.26-23.43.15:261][898]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.26-23.43.15:261][898]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.26-23.43.15:261][898]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.26-23.43.15:262][898]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.26-23.43.15:262][898]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.26-23.43.15:262][898]LogInit: FAudioDevice initialized.
+[2022.04.26-23.43.15:262][898]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2022.04.26-23.43.15:273][898]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.26-23.43.15:275][898]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.04.26-19.43.15
+[2022.04.26-23.43.15:275][898]LogWorld: Bringing up level for play took: 0.000932
+[2022.04.26-23.43.15:275][898]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.04.26-23.43.15:279][898]PIE: Server logged in
+[2022.04.26-23.43.15:279][898]PIE: Play in editor total start time 0.11 seconds.
+[2022.04.26-23.44.00:918][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-23.44.00:918][630]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.26-23.44.00:918][630]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.44.00:919][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-23.44.00:933][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.26-23.44.00:942][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-23.44.00:981][630]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.26-23.44.00:981][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-23.44.00:983][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-23.44.00:987][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-23.44.00:992][630]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.04.26-23.44.01:008][631]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.04.26-23.44.02:074][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2022.04.26-23.44.38:554][795]LogEditorTransaction: Undo Paste clipboard contents
+[2022.04.26-23.44.38:781][795]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-23.44.38:787][795]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-23.44.39:526][824]LogEditorTransaction: Undo Delete current selection
+[2022.04.26-23.44.39:715][824]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-23.44.39:721][824]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.26-23.44.53:768][641]BlueprintLog: New page: Compile UE4ASP_HeroTPP_AnimBlueprint
+[2022.04.26-23.44.53:850][641]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.04.26-23.44.54:825][688]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/UE4ASP_HeroTPP_AnimBlueprint865CBB0F42DD27E1396FB08C9E3D3498.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2022.04.26-23.44.54:841][688]AssetCheck: New page: Asset Save: UE4ASP_HeroTPP_AnimBlueprint
+[2022.04.26-23.44.54:841][688]LogContentValidation: Display: Validating AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2022.04.26-23.44.56:879][810]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.26-23.44.56:884][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.26-23.44.56:884][810]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 26, 2022, 3:44:56 PM)
+[2022.04.26-23.44.56:884][810]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.26-23.44.56:900][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016442s)
+[2022.04.26-23.44.56:901][810]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.26-23.44.56:902][810]LogPlayLevel: PIE: World Init took: (0.001488s)
+[2022.04.26-23.44.56:902][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018064s)
+[2022.04.26-23.44.56:943][810]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2022.04.26-23.44.56:946][810]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.26-23.44.56:946][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.26-23.44.56:946][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.26-23.44.56:946][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.26-23.44.56:946][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.26-23.44.56:946][810]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.26-23.44.56:946][810]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.26-23.44.56:946][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.26-23.44.56:946][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.26-23.44.56:947][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.26-23.44.56:947][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.26-23.44.56:947][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.26-23.44.56:947][810]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.26-23.44.56:948][810]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.26-23.44.56:948][810]LogAudioMixer: Display: 1: FrontRight
+[2022.04.26-23.44.56:964][810]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.04.26-23.44.56:964][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.26-23.44.56:964][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.26-23.44.56:964][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.26-23.44.56:965][810]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.26-23.44.56:965][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.26-23.44.56:965][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.26-23.44.56:967][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.26-23.44.56:967][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.26-23.44.56:967][810]LogInit: FAudioDevice initialized.
+[2022.04.26-23.44.56:967][810]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2022.04.26-23.44.56:979][810]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.26-23.44.56:981][810]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.04.26-19.44.56
+[2022.04.26-23.44.56:981][810]LogWorld: Bringing up level for play took: 0.000987
+[2022.04.26-23.44.56:981][810]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.04.26-23.44.56:985][810]PIE: Server logged in
+[2022.04.26-23.44.56:985][810]PIE: Play in editor total start time 0.103 seconds.
+[2022.04.26-23.45.10:150][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-23.45.10:150][594]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.26-23.45.10:151][594]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.45.10:152][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-23.45.10:177][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.26-23.45.10:228][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-23.45.10:265][594]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.26-23.45.10:265][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-23.45.10:266][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-23.45.10:270][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-23.45.10:275][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.04.26-23.45.10:293][595]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.04.26-23.45.20:783][210]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.04.26-23.45.20:816][210]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/ThirdPersonExampleMapBDC09FE84D55C7E43A54FD890E896B0A.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.04.26-23.45.21:066][210]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/ThirdPersonExampleMap_BuiltData957C09D24298C24BB68C15A2009BAFB2.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.04.26-23.45.21:080][210]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.26-23.45.21:080][210]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.04.26-23.45.21:080][210]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.04.26-23.47.38:478][933]LogRenderer: Reallocating scene render targets to support 1092x360 Format 10 NumSamples 1 (Frame:25502).
+[2022.04.26-23.47.41:028][ 68]LogRenderer: Reallocating scene render targets to support 1092x368 Format 10 NumSamples 1 (Frame:25642).
+[2022.04.26-23.47.41:071][ 69]LogRenderer: Reallocating scene render targets to support 1092x376 Format 10 NumSamples 1 (Frame:25644).
+[2022.04.26-23.47.41:115][ 70]LogRenderer: Reallocating scene render targets to support 1092x388 Format 10 NumSamples 1 (Frame:25646).
+[2022.04.26-23.47.41:158][ 71]LogRenderer: Reallocating scene render targets to support 1092x396 Format 10 NumSamples 1 (Frame:25648).
+[2022.04.26-23.47.41:201][ 72]LogRenderer: Reallocating scene render targets to support 1092x408 Format 10 NumSamples 1 (Frame:25650).
+[2022.04.26-23.47.41:245][ 73]LogRenderer: Reallocating scene render targets to support 1092x412 Format 10 NumSamples 1 (Frame:25652).
+[2022.04.26-23.47.41:291][ 74]LogRenderer: Reallocating scene render targets to support 1092x420 Format 10 NumSamples 1 (Frame:25654).
+[2022.04.26-23.47.41:338][ 75]LogRenderer: Reallocating scene render targets to support 1092x432 Format 10 NumSamples 1 (Frame:25656).
+[2022.04.26-23.47.41:382][ 76]LogRenderer: Reallocating scene render targets to support 1092x444 Format 10 NumSamples 1 (Frame:25658).
+[2022.04.26-23.47.41:426][ 77]LogRenderer: Reallocating scene render targets to support 1092x456 Format 10 NumSamples 1 (Frame:25660).
+[2022.04.26-23.47.41:469][ 78]LogRenderer: Reallocating scene render targets to support 1092x464 Format 10 NumSamples 1 (Frame:25662).
+[2022.04.26-23.47.41:514][ 79]LogRenderer: Reallocating scene render targets to support 1092x472 Format 10 NumSamples 1 (Frame:25664).
+[2022.04.26-23.47.41:557][ 80]LogRenderer: Reallocating scene render targets to support 1092x480 Format 10 NumSamples 1 (Frame:25666).
+[2022.04.26-23.47.41:616][ 81]LogRenderer: Reallocating scene render targets to support 1092x488 Format 10 NumSamples 1 (Frame:25668).
+[2022.04.26-23.47.41:659][ 82]LogRenderer: Reallocating scene render targets to support 1092x496 Format 10 NumSamples 1 (Frame:25670).
+[2022.04.26-23.47.41:701][ 83]LogRenderer: Reallocating scene render targets to support 1092x500 Format 10 NumSamples 1 (Frame:25672).
+[2022.04.26-23.47.41:747][ 84]LogRenderer: Reallocating scene render targets to support 1092x508 Format 10 NumSamples 1 (Frame:25674).
+[2022.04.26-23.47.41:791][ 85]LogRenderer: Reallocating scene render targets to support 1092x516 Format 10 NumSamples 1 (Frame:25676).
+[2022.04.26-23.47.41:838][ 86]LogRenderer: Reallocating scene render targets to support 1092x524 Format 10 NumSamples 1 (Frame:25678).
+[2022.04.26-23.47.41:915][ 88]LogRenderer: Reallocating scene render targets to support 1092x528 Format 10 NumSamples 1 (Frame:25682).
+[2022.04.26-23.47.54:577][818]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.26-23.47.54:581][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.26-23.47.54:581][818]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 26, 2022, 3:47:54 PM)
+[2022.04.26-23.47.54:581][818]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.26-23.47.54:618][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036911s)
+[2022.04.26-23.47.54:620][818]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.26-23.47.54:620][818]LogPlayLevel: PIE: World Init took: (0.001729s)
+[2022.04.26-23.47.54:620][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.038823s)
+[2022.04.26-23.47.54:721][818]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2022.04.26-23.47.54:771][818]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.26-23.47.54:771][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.26-23.47.54:771][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.26-23.47.54:771][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.26-23.47.54:771][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.26-23.47.54:771][818]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.26-23.47.54:771][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.26-23.47.54:771][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.26-23.47.54:771][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.26-23.47.54:772][818]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.26-23.47.54:772][818]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.26-23.47.54:772][818]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.26-23.47.54:772][818]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.26-23.47.54:773][818]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.26-23.47.54:773][818]LogAudioMixer: Display: 1: FrontRight
+[2022.04.26-23.47.54:790][818]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.04.26-23.47.54:790][818]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.26-23.47.54:790][818]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.26-23.47.54:790][818]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.26-23.47.54:790][818]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.26-23.47.54:791][818]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.26-23.47.54:791][818]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.26-23.47.54:792][818]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.26-23.47.54:792][818]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.26-23.47.54:792][818]LogInit: FAudioDevice initialized.
+[2022.04.26-23.47.54:792][818]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2022.04.26-23.47.54:856][818]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.26-23.47.54:862][818]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.04.26-19.47.54
+[2022.04.26-23.47.54:863][818]LogWorld: Bringing up level for play took: 0.003465
+[2022.04.26-23.47.54:863][818]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.04.26-23.47.54:915][818]PIE: Server logged in
+[2022.04.26-23.47.54:918][818]PIE: Play in editor total start time 0.337 seconds.
+[2022.04.26-23.49.50:948][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-23.49.50:948][645]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.26-23.49.50:948][645]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.49.50:949][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-23.49.50:977][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.26-23.49.51:030][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-23.49.51:063][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-23.49.51:064][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-23.49.51:065][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-23.49.51:075][645]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.04.26-23.49.51:095][646]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.04.26-23.50.00:383][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.04.26-23.50.00:415][179]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/ThirdPersonExampleMap05FD2A714A77F967233F37BF54DD02A0.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.04.26-23.50.00:525][179]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/ThirdPersonExampleMap_BuiltData2B69B6E647E0FE8252F9858637F42FCE.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.04.26-23.50.00:550][179]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.26-23.50.00:550][179]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.04.26-23.50.00:550][179]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.04.26-23.50.02:501][292]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.04.26-23.50.02:567][292]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Saved/MyAnimationMontage2D5B2409466F9402DC2AE1AC6AFA227F.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz4/Quiz4/Content/AnimStarterPack/MyAnimationMontage.uasset'
+[2022.04.26-23.50.02:582][292]AssetCheck: New page: Asset Save: MyAnimationMontage
+[2022.04.26-23.50.02:582][292]LogContentValidation: Display: Validating AnimMontage /Game/AnimStarterPack/MyAnimationMontage.MyAnimationMontage
+[2022.04.26-23.50.06:967][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.04.26-23.50.08:342][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.04.26-23.50.08:797][621]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.08:797][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-23.50.08:856][621]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.08:856][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-23.50.08:884][621]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.08:884][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-23.50.08:975][621]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.08:975][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-23.50.09:668][621]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.09:668][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-23.50.09:835][621]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.09:835][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-23.50.10:167][621]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.10:168][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-23.50.10:570][621]LogSlate: Window 'Quiz4 - Unreal Editor' being destroyed
+[2022.04.26-23.50.11:477][622]Cmd: QUIT_EDITOR
+[2022.04.26-23.50.11:477][622]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.04.26-23.50.11:480][622]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.04.26-23.50.12:071][622]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.04.26-23.50.12:071][622]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.04.26-23.50.12:071][622]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2022.04.26-23.50.12:071][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-23.50.12:082][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-23.50.12:413][622]LogAudio: Display: Audio Device Manager Shutdown
+[2022.04.26-23.50.12:424][622]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.26-23.50.12:529][622]LogExit: Preparing to exit.
+[2022.04.26-23.50.14:115][622]LogUObjectHash: Compacting FUObjectHashTables data took  36.70ms
+[2022.04.26-23.50.16:364][622]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.16:376][622]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.16:386][622]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.16:397][622]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.16:407][622]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.16:418][622]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.16:428][622]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.16:439][622]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.16:449][622]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.16:457][622]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.18:316][622]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-23.50.18:317][622]LogExit: Editor shut down
+[2022.04.26-23.50.18:676][622]LogExit: Transaction tracking system shut down
+[2022.04.26-23.50.20:234][622]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.04.26-23.50.24:824][622]LogExit: Object subsystem successfully closed.
+[2022.04.26-23.50.24:898][622]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.26-23.50.24:898][622]LogShaderCompilers: Display: Total job queries 358, among them cache hits 10 (2.79%)
+[2022.04.26-23.50.24:898][622]LogShaderCompilers: Display: Tracking 348 distinct input hashes that result in 220 distinct outputs (63.22%)
+[2022.04.26-23.50.24:898][622]LogShaderCompilers: Display: RAM used: 0.90 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.22%
+[2022.04.26-23.50.24:898][622]LogShaderCompilers: Display: ================================================
+[2022.04.26-23.50.25:018][622]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.04.26-23.50.25:384][622]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (884)
+[2022.04.26-23.50.25:384][622]LogModuleManager: Shutting down and abandoning module Voice (882)
+[2022.04.26-23.50.25:488][622]LogModuleManager: Shutting down and abandoning module SequencerWidgets (880)
+[2022.04.26-23.50.25:488][622]LogModuleManager: Shutting down and abandoning module PinnedCommandList (878)
+[2022.04.26-23.50.25:488][622]LogModuleManager: Shutting down and abandoning module SkeletonEditor (876)
+[2022.04.26-23.50.25:488][622]LogModuleManager: Shutting down and abandoning module AnimationEditor (874)
+[2022.04.26-23.50.25:488][622]LogModuleManager: Shutting down and abandoning module BlueprintGraph (872)
+[2022.04.26-23.50.25:488][622]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.04.26-23.50.25:488][622]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (868)
+[2022.04.26-23.50.25:488][622]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.04.26-23.50.26:340][622]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.04.26-23.50.26:340][622]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.04.26-23.50.26:340][622]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.04.26-23.50.26:340][622]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.04.26-23.50.26:340][622]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.04.26-23.50.26:340][622]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.04.26-23.50.26:340][622]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.04.26-23.50.26:340][622]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.04.26-23.50.26:340][622]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2022.04.26-23.50.26:341][622]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2022.04.26-23.50.26:341][622]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2022.04.26-23.50.26:342][622]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2022.04.26-23.50.26:342][622]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2022.04.26-23.50.26:342][622]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2022.04.26-23.50.26:342][622]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2022.04.26-23.50.26:342][622]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2022.04.26-23.50.26:342][622]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2022.04.26-23.50.26:342][622]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2022.04.26-23.50.26:343][622]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2022.04.26-23.50.26:343][622]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (826)
+[2022.04.26-23.50.26:343][622]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (824)
+[2022.04.26-23.50.26:343][622]LogModuleManager: Shutting down and abandoning module WebMMedia (822)
+[2022.04.26-23.50.26:343][622]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (820)
+[2022.04.26-23.50.26:343][622]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (818)
+[2022.04.26-23.50.26:343][622]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (816)
+[2022.04.26-23.50.26:343][622]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2022.04.26-23.50.26:344][622]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2022.04.26-23.50.26:344][622]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (810)
+[2022.04.26-23.50.26:344][622]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (808)
+[2022.04.26-23.50.26:344][622]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (806)
+[2022.04.26-23.50.26:344][622]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (804)
+[2022.04.26-23.50.26:344][622]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (802)
+[2022.04.26-23.50.26:344][622]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (800)
+[2022.04.26-23.50.26:344][622]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (798)
+[2022.04.26-23.50.26:344][622]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (796)
+[2022.04.26-23.50.26:344][622]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (794)
+[2022.04.26-23.50.26:344][622]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (792)
+[2022.04.26-23.50.26:344][622]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2022.04.26-23.50.26:344][622]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2022.04.26-23.50.26:345][622]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.04.26-23.50.26:345][622]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.04.26-23.50.26:345][622]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.04.26-23.50.26:345][622]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.04.26-23.50.26:345][622]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.04.26-23.50.26:345][622]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.04.26-23.50.26:345][622]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.04.26-23.50.26:345][622]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.04.26-23.50.26:345][622]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.04.26-23.50.26:346][622]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.04.26-23.50.26:346][622]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.04.26-23.50.26:346][622]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.04.26-23.50.26:347][622]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.04.26-23.50.26:347][622]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.04.26-23.50.26:347][622]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.04.26-23.50.26:347][622]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.04.26-23.50.26:347][622]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.04.26-23.50.26:347][622]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.04.26-23.50.26:347][622]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.04.26-23.50.26:348][622]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.04.26-23.50.26:348][622]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.04.26-23.50.26:348][622]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.04.26-23.50.26:348][622]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.04.26-23.50.26:349][622]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.04.26-23.50.26:349][622]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.04.26-23.50.26:446][622]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.04.26-23.50.26:446][622]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.04.26-23.50.26:447][622]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.04.26-23.50.26:447][622]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.04.26-23.50.26:447][622]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.04.26-23.50.26:447][622]MemoryProfiler: Shutdown
+[2022.04.26-23.50.26:447][622]NetworkingProfiler: Shutdown
+[2022.04.26-23.50.26:447][622]LoadingProfiler: Shutdown
+[2022.04.26-23.50.26:448][622]TimingProfiler: Shutdown
+[2022.04.26-23.50.26:451][622]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.04.26-23.50.26:451][622]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.04.26-23.50.26:451][622]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.04.26-23.50.26:451][622]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.04.26-23.50.26:452][622]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.04.26-23.50.26:452][622]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.04.26-23.50.26:452][622]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.04.26-23.50.26:452][622]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.04.26-23.50.26:452][622]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.04.26-23.50.26:452][622]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.04.26-23.50.26:452][622]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.04.26-23.50.26:453][622]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.04.26-23.50.26:453][622]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.04.26-23.50.26:453][622]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.04.26-23.50.26:455][622]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.04.26-23.50.26:455][622]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.04.26-23.50.26:456][622]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.04.26-23.50.26:456][622]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.04.26-23.50.26:456][622]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.04.26-23.50.26:456][622]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.04.26-23.50.26:456][622]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.04.26-23.50.26:456][622]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.04.26-23.50.26:489][622]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.04.26-23.50.26:489][622]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.04.26-23.50.26:489][622]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.04.26-23.50.26:489][622]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.04.26-23.50.26:489][622]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.04.26-23.50.26:490][622]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.04.26-23.50.26:490][622]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.04.26-23.50.26:490][622]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.04.26-23.50.26:490][622]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.04.26-23.50.26:490][622]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.04.26-23.50.26:491][622]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.04.26-23.50.26:718][622]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.04.26-23.50.26:718][622]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.04.26-23.50.26:718][622]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.04.26-23.50.26:719][622]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.04.26-23.50.26:762][622]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.04.26-23.50.26:762][622]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.04.26-23.50.26:762][622]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.04.26-23.50.26:804][622]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.04.26-23.50.26:804][622]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.04.26-23.50.26:804][622]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.04.26-23.50.26:805][622]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.04.26-23.50.26:805][622]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.04.26-23.50.26:805][622]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.04.26-23.50.26:805][622]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.04.26-23.50.26:805][622]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.04.26-23.50.26:805][622]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.04.26-23.50.26:805][622]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.04.26-23.50.26:805][622]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.04.26-23.50.26:805][622]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.04.26-23.50.26:805][622]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.04.26-23.50.26:805][622]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.04.26-23.50.26:805][622]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.04.26-23.50.26:805][622]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.04.26-23.50.26:805][622]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.04.26-23.50.26:805][622]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.04.26-23.50.26:806][622]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.04.26-23.50.26:806][622]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.04.26-23.50.26:971][622]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.04.26-23.50.26:971][622]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.04.26-23.50.26:971][622]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.04.26-23.50.26:972][622]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.04.26-23.50.26:972][622]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (598)
+[2022.04.26-23.50.26:972][622]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2022.04.26-23.50.26:972][622]LogModuleManager: Shutting down and abandoning module CollectionManager (595)
+[2022.04.26-23.50.26:973][622]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (592)
+[2022.04.26-23.50.26:973][622]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (590)
+[2022.04.26-23.50.26:973][622]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (588)
+[2022.04.26-23.50.26:973][622]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (586)
+[2022.04.26-23.50.26:973][622]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (584)
+[2022.04.26-23.50.26:973][622]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (582)
+[2022.04.26-23.50.26:973][622]LogModuleManager: Shutting down and abandoning module LiveLink (580)
+[2022.04.26-23.50.27:682][622]LogModuleManager: Shutting down and abandoning module SynthesisEditor (578)
+[2022.04.26-23.50.27:682][622]LogModuleManager: Shutting down and abandoning module Synthesis (576)
+[2022.04.26-23.50.27:682][622]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (574)
+[2022.04.26-23.50.27:682][622]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (572)
+[2022.04.26-23.50.27:682][622]LogModuleManager: Shutting down and abandoning module TakeSequencer (570)
+[2022.04.26-23.50.27:683][622]LogModuleManager: Shutting down and abandoning module TakeMovieScene (568)
+[2022.04.26-23.50.27:683][622]LogModuleManager: Shutting down and abandoning module OpenXREditor (566)
+[2022.04.26-23.50.27:683][622]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (564)
+[2022.04.26-23.50.27:683][622]LogModuleManager: Shutting down and abandoning module GooglePAD (562)
+[2022.04.26-23.50.27:683][622]LogModuleManager: Shutting down and abandoning module ScreenshotTools (560)
+[2022.04.26-23.50.27:683][622]LogModuleManager: Shutting down and abandoning module EditableMesh (558)
+[2022.04.26-23.50.27:683][622]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (556)
+[2022.04.26-23.50.27:683][622]LogModuleManager: Shutting down and abandoning module CableComponent (554)
+[2022.04.26-23.50.27:683][622]LogModuleManager: Shutting down and abandoning module AudioCapture (552)
+[2022.04.26-23.50.27:683][622]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (551)
+[2022.04.26-23.50.27:683][622]LogModuleManager: Shutting down and abandoning module AssetTags (548)
+[2022.04.26-23.50.27:683][622]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (546)
+[2022.04.26-23.50.27:683][622]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (544)
+[2022.04.26-23.50.27:683][622]LogModuleManager: Shutting down and abandoning module AppleImageUtils (542)
+[2022.04.26-23.50.27:683][622]LogModuleManager: Shutting down and abandoning module AndroidPermission (540)
+[2022.04.26-23.50.27:684][622]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (538)
+[2022.04.26-23.50.27:684][622]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (536)
+[2022.04.26-23.50.27:684][622]LogModuleManager: Shutting down and abandoning module TemplateSequence (534)
+[2022.04.26-23.50.27:684][622]LogModuleManager: Shutting down and abandoning module MediaCompositing (532)
+[2022.04.26-23.50.27:684][622]LogModuleManager: Shutting down and abandoning module ImgMedia (530)
+[2022.04.26-23.50.27:684][622]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (528)
+[2022.04.26-23.50.27:684][622]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (526)
+[2022.04.26-23.50.27:684][622]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (524)
+[2022.04.26-23.50.27:684][622]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (522)
+[2022.04.26-23.50.27:684][622]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (520)
+[2022.04.26-23.50.27:684][622]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (518)
+[2022.04.26-23.50.27:684][622]LogOpenImageDenoise: OIDN shutting down
+[2022.04.26-23.50.27:685][622]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (516)
+[2022.04.26-23.50.27:685][622]LogModuleManager: Shutting down and abandoning module MotoSynth (514)
+[2022.04.26-23.50.27:685][622]LogModuleManager: Shutting down and abandoning module MeshConversion (512)
+[2022.04.26-23.50.27:685][622]LogModuleManager: Shutting down and abandoning module DynamicMesh (510)
+[2022.04.26-23.50.27:685][622]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (508)
+[2022.04.26-23.50.27:685][622]LogModuleManager: Shutting down and abandoning module GeometricObjects (506)
+[2022.04.26-23.50.27:685][622]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (504)
+[2022.04.26-23.50.27:686][622]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (502)
+[2022.04.26-23.50.27:686][622]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (501)
+[2022.04.26-23.50.27:686][622]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (498)
+[2022.04.26-23.50.27:686][622]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (496)
+[2022.04.26-23.50.27:686][622]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (494)
+[2022.04.26-23.50.27:686][622]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (492)
+[2022.04.26-23.50.27:686][622]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (490)
+[2022.04.26-23.50.27:686][622]LogModuleManager: Shutting down and abandoning module ChaosNiagara (488)
+[2022.04.26-23.50.27:686][622]LogModuleManager: Shutting down and abandoning module FractureEditor (486)
+[2022.04.26-23.50.27:686][622]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (485)
+[2022.04.26-23.50.27:686][622]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (482)
+[2022.04.26-23.50.27:686][622]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (480)
+[2022.04.26-23.50.27:687][622]LogModuleManager: Shutting down and abandoning module AutomationUtils (478)
+[2022.04.26-23.50.27:687][622]LogModuleManager: Shutting down and abandoning module BackChannel (476)
+[2022.04.26-23.50.27:687][622]LogModuleManager: Shutting down and abandoning module AlembicImporter (474)
+[2022.04.26-23.50.27:687][622]LogModuleManager: Shutting down and abandoning module AlembicLibrary (473)
+[2022.04.26-23.50.27:687][622]LogModuleManager: Shutting down and abandoning module GeometryCache (472)
+[2022.04.26-23.50.27:687][622]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (471)
+[2022.04.26-23.50.27:687][622]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (466)
+[2022.04.26-23.50.27:687][622]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (464)
+[2022.04.26-23.50.27:687][622]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (462)
+[2022.04.26-23.50.27:687][622]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (460)
+[2022.04.26-23.50.27:687][622]LogModuleManager: Shutting down and abandoning module UObjectPlugin (458)
+[2022.04.26-23.50.27:687][622]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (456)
+[2022.04.26-23.50.27:687][622]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (454)
+[2022.04.26-23.50.27:688][622]LogModuleManager: Shutting down and abandoning module PluginUtils (452)
+[2022.04.26-23.50.27:688][622]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (450)
+[2022.04.26-23.50.27:688][622]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (448)
+[2022.04.26-23.50.27:688][622]LogModuleManager: Shutting down and abandoning module GitSourceControl (446)
+[2022.04.26-23.50.27:688][622]LogModuleManager: Shutting down and abandoning module SourceControl (445)
+[2022.04.26-23.50.27:689][622]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (442)
+[2022.04.26-23.50.27:689][622]LogModuleManager: Shutting down and abandoning module PluginBrowser (440)
+[2022.04.26-23.50.27:690][622]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (438)
+[2022.04.26-23.50.27:690][622]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (436)
+[2022.04.26-23.50.27:690][622]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (434)
+[2022.04.26-23.50.27:690][622]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (432)
+[2022.04.26-23.50.27:690][622]LogModuleManager: Shutting down and abandoning module CurveEditorTools (430)
+[2022.04.26-23.50.27:690][622]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (428)
+[2022.04.26-23.50.27:690][622]LogModuleManager: Shutting down and abandoning module CryptoKeys (426)
+[2022.04.26-23.50.27:690][622]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (424)
+[2022.04.26-23.50.27:691][622]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (422)
+[2022.04.26-23.50.27:691][622]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.04.26-23.50.27:691][622]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.04.26-23.50.27:691][622]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.04.26-23.50.27:691][622]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.04.26-23.50.27:691][622]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.04.26-23.50.27:691][622]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2022.04.26-23.50.27:692][622]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2022.04.26-23.50.27:692][622]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2022.04.26-23.50.27:692][622]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2022.04.26-23.50.27:692][622]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2022.04.26-23.50.27:692][622]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2022.04.26-23.50.27:692][622]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2022.04.26-23.50.27:692][622]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2022.04.26-23.50.27:692][622]LogModuleManager: Shutting down and abandoning module TcpMessaging (392)
+[2022.04.26-23.50.27:793][622]LogModuleManager: Shutting down and abandoning module ActorSequence (390)
+[2022.04.26-23.50.27:793][622]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2022.04.26-23.50.27:894][622]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (386)
+[2022.04.26-23.50.27:894][622]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (384)
+[2022.04.26-23.50.27:894][622]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (382)
+[2022.04.26-23.50.27:894][622]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (380)
+[2022.04.26-23.50.27:894][622]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (378)
+[2022.04.26-23.50.27:894][622]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (376)
+[2022.04.26-23.50.27:894][622]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.04.26-23.50.27:894][622]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (374)
+[2022.04.26-23.50.27:894][622]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (372)
+[2022.04.26-23.50.27:894][622]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (370)
+[2022.04.26-23.50.27:895][622]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (368)
+[2022.04.26-23.50.27:895][622]LogModuleManager: Shutting down and abandoning module MagicLeapController (366)
+[2022.04.26-23.50.27:895][622]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (364)
+[2022.04.26-23.50.27:895][622]LogModuleManager: Shutting down and abandoning module MagicLeapAR (362)
+[2022.04.26-23.50.27:895][622]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (360)
+[2022.04.26-23.50.27:895][622]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2022.04.26-23.50.27:895][622]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2022.04.26-23.50.27:895][622]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2022.04.26-23.50.27:895][622]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2022.04.26-23.50.27:897][622]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2022.04.26-23.50.27:897][622]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (348)
+[2022.04.26-23.50.27:897][622]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (346)
+[2022.04.26-23.50.27:897][622]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (344)
+[2022.04.26-23.50.27:898][622]LogModuleManager: Shutting down and abandoning module FacialAnimation (342)
+[2022.04.26-23.50.27:898][622]LogModuleManager: Shutting down and abandoning module DataValidation (340)
+[2022.04.26-23.50.27:898][622]LogModuleManager: Shutting down and abandoning module AnimationSharing (338)
+[2022.04.26-23.50.27:898][622]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (336)
+[2022.04.26-23.50.27:899][622]LogModuleManager: Shutting down and abandoning module LevelEditor (335)
+[2022.04.26-23.50.27:904][622]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (334)
+[2022.04.26-23.50.27:904][622]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (332)
+[2022.04.26-23.50.27:905][622]LogModuleManager: Shutting down and abandoning module MainFrame (330)
+[2022.04.26-23.50.27:905][622]LogModuleManager: Shutting down and abandoning module HotReload (329)
+[2022.04.26-23.50.27:906][622]LogModuleManager: Shutting down and abandoning module ToolMenus (325)
+[2022.04.26-23.50.27:906][622]LogModuleManager: Shutting down and abandoning module ContentBrowser (323)
+[2022.04.26-23.50.27:906][622]LogModuleManager: Shutting down and abandoning module ContentBrowserData (322)
+[2022.04.26-23.50.27:907][622]LogModuleManager: Shutting down and abandoning module TreeMap (319)
+[2022.04.26-23.50.27:907][622]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2022.04.26-23.50.27:907][622]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.04.26-23.50.27:907][622]LogModuleManager: Shutting down and abandoning module Paper2D (312)
+[2022.04.26-23.50.27:907][622]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (310)
+[2022.04.26-23.50.27:907][622]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.04.26-23.50.28:070][622]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.04.26-23.50.28:070][622]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.04.26-23.50.28:071][622]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.04.26-23.50.28:071][622]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.04.26-23.50.28:071][622]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.04.26-23.50.28:071][622]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.04.26-23.50.28:071][622]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.04.26-23.50.28:071][622]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.04.26-23.50.28:071][622]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.04.26-23.50.28:071][622]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.04.26-23.50.28:071][622]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.04.26-23.50.28:071][622]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.04.26-23.50.28:072][622]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.04.26-23.50.28:072][622]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.04.26-23.50.28:072][622]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.04.26-23.50.28:072][622]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.04.26-23.50.28:072][622]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.04.26-23.50.28:072][622]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.04.26-23.50.28:072][622]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.04.26-23.50.28:073][622]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.04.26-23.50.28:073][622]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.04.26-23.50.28:078][622]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.04.26-23.50.28:078][622]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.04.26-23.50.28:078][622]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.04.26-23.50.28:078][622]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.04.26-23.50.28:078][622]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.04.26-23.50.28:078][622]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.04.26-23.50.28:078][622]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.04.26-23.50.28:078][622]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.04.26-23.50.28:078][622]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.04.26-23.50.28:079][622]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.04.26-23.50.28:079][622]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.04.26-23.50.28:080][622]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.04.26-23.50.28:081][622]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.04.26-23.50.28:096][622]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.04.26-23.50.28:096][622]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.04.26-23.50.28:096][622]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.04.26-23.50.28:096][622]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.04.26-23.50.28:097][622]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.04.26-23.50.28:097][622]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.04.26-23.50.28:097][622]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.04.26-23.50.28:097][622]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.04.26-23.50.28:097][622]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.04.26-23.50.28:097][622]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.04.26-23.50.28:097][622]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.04.26-23.50.28:097][622]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.04.26-23.50.28:097][622]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.04.26-23.50.28:098][622]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.04.26-23.50.28:098][622]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.04.26-23.50.28:098][622]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.04.26-23.50.28:098][622]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.04.26-23.50.28:098][622]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.04.26-23.50.28:098][622]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.04.26-23.50.28:098][622]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.04.26-23.50.28:098][622]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.04.26-23.50.28:098][622]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.04.26-23.50.28:098][622]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.04.26-23.50.28:098][622]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.04.26-23.50.28:099][622]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.04.26-23.50.28:099][622]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.04.26-23.50.28:099][622]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.04.26-23.50.28:099][622]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.04.26-23.50.28:099][622]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.04.26-23.50.28:099][622]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.04.26-23.50.28:099][622]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.04.26-23.50.28:099][622]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.04.26-23.50.28:099][622]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.04.26-23.50.28:099][622]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.04.26-23.50.28:109][622]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.04.26-23.50.28:110][622]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.04.26-23.50.28:110][622]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.04.26-23.50.28:110][622]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.04.26-23.50.28:110][622]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.04.26-23.50.28:125][622]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.04.26-23.50.28:125][622]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.04.26-23.50.28:125][622]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.04.26-23.50.28:125][622]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.04.26-23.50.28:125][622]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.04.26-23.50.28:125][622]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.04.26-23.50.28:125][622]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.04.26-23.50.28:125][622]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.04.26-23.50.28:125][622]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.04.26-23.50.28:132][622]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.04.26-23.50.28:198][622]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.04.26-23.50.28:198][622]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.04.26-23.50.28:198][622]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.04.26-23.50.28:198][622]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.04.26-23.50.28:198][622]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.04.26-23.50.28:209][622]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.04.26-23.50.28:210][622]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.04.26-23.50.28:210][622]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.04.26-23.50.28:210][622]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.04.26-23.50.28:210][622]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.04.26-23.50.28:210][622]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.04.26-23.50.28:210][622]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.04.26-23.50.28:210][622]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.04.26-23.50.28:210][622]LogHMD: Freeing OpenVRDLLHandle.
+[2022.04.26-23.50.28:210][622]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.04.26-23.50.28:210][622]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.04.26-23.50.28:228][622]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.04.26-23.50.28:228][622]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.04.26-23.50.28:228][622]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.04.26-23.50.28:228][622]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.04.26-23.50.28:228][622]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.04.26-23.50.28:228][622]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.04.26-23.50.28:228][622]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.04.26-23.50.28:228][622]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2022.04.26-23.50.28:228][622]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.04.26-23.50.28:228][622]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.04.26-23.50.28:230][622]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.04.26-23.50.28:230][622]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.04.26-23.50.28:365][622]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.04.26-23.50.28:365][622]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.04.26-23.50.28:365][622]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE80AE257-4E65-929F-98CD-50B47E518CA9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=783b08af476787884cea4893e8f4048e%7C08ac801946cc4dac8cacc4d782eaace7%7Cc805b059-1638-4fc2-997a-02f37115c956&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.04.26-23.50.28:365][622]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.04.26-23.50.28:434][622]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.04.26-23.50.28:448][622]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.04.26-23.50.28:455][622]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.04.26-23.50.28:495][622]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.04.26-23.50.28:496][622]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.04.26-23.50.28:496][622]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.04.26-23.50.28:496][622]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.04.26-23.50.28:496][622]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.04.26-23.50.28:496][622]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.04.26-23.50.28:496][622]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.04.26-23.50.28:496][622]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.04.26-23.50.28:590][622]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.04.26-23.50.28:590][622]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.04.26-23.50.28:590][622]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.04.26-23.50.28:590][622]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.04.26-23.50.28:590][622]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.04.26-23.50.28:590][622]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.04.26-23.50.28:590][622]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.04.26-23.50.28:591][622]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.04.26-23.50.28:591][622]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.04.26-23.50.28:591][622]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.04.26-23.50.28:592][622]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.04.26-23.50.28:662][622]LogD3D11RHI: Shutdown
+[2022.04.26-23.50.28:662][622]LogD3D11RHI: CleanupD3DDevice
+[2022.04.26-23.50.28:683][622]LogExit: Exiting.
+[2022.04.26-23.50.28:727][622]Log file closed, 04/26/22 19:50:28
